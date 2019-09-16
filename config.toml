@@ -1,0 +1,21 @@
+baseURL = "http://songxi.site/"
+languageCode = "zh-CN"
+title = "宋曦的博客"
+theme = "maupassant"
+disqusShortname = "yourdiscussshortname"
+
+[author]
+  name = "宋曦"
+
+[params]
+  author = "宋曦"
+  subtitle = "夕阳的终点，彼端的光明"
+  keywords = "博客"
+  description = "宋曦的博客"
+  
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 99
