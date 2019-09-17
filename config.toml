@@ -2,7 +2,6 @@ baseURL = "http://songxi.site/"
 languageCode = "zh-CN"
 title = "宋曦的博客"
 theme = "maupassant"
-disqusShortname = "yourdiscussshortname"
 
 [author]
   name = "宋曦"
@@ -12,7 +11,13 @@ disqusShortname = "yourdiscussshortname"
   subtitle = "夕阳的终点，彼端的光明"
   keywords = "博客"
   description = "宋曦的博客"
-  
+
+  [params.utteranc]
+    enable = true
+    repo = "dawnorigin/blog"
+    issueTerm = "pathname"
+    theme = "github-light"
+
 [menu]
   [[menu.main]]
     identifier = "about"
