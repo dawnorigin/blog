@@ -1,4 +1,4 @@
-baseURL = "http://songxi.site/"
+baseURL = "https://songxi.site/"
 languageCode = "zh-CN"
 title = "宋曦的博客"
 theme = "maupassant"
