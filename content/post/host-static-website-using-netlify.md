@@ -2,6 +2,8 @@
 title: "使用 Netlify + Github + Hugo 快速搭建静态网站"
 date: 2019-09-22T20:37:21+08:00
 draft: false
+tags: ["blog"]
+categories: ["blog"]
 ---
 
 本文主要描述了如何基于 [Netlify](https://www.netlify.com/) 的服务快速部署一个静态网站，其网站源码托管在 [GitHub](https://github.com/)，并使用 [hugo](https://gohugo.io/) 工具构建静态网站。
